@@ -20,10 +20,12 @@ header{
 
 h1 {
     color: white;
-    float: left;
-    font-family: fantasy;
-    font-size: 0.8cm;
-    margin: 12px 10px 10px 10px;
+  float: left;
+  font-family: fantasy;
+  font-size: 0.8cm;
+  margin: 12px 10px 10px 10px;
+  letter-spacing: 1px;
+  border: 2px solid rgb(255, 255, 255);
 }
 
 #boton3 {
@@ -75,4 +77,15 @@ h1 {
 #boton1:hover {
     background-color: white;
     color: black;
+}
+
+.contenedor1 {
+    color: white;
+    text-align: center;
+}
+
+.imagen1 {
+    width: 200px;
+    height: 200px;
+    text-align: center;
 }
