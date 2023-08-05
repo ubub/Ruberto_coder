@@ -76,3 +76,24 @@ h1 {
     background-color: white;
     color: black;
 }
+
+.contenedor2 {
+    background-color: white;
+    padding: 20px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .contenido {
+    text-align: center;
+  }
+  
+  #titulo {
+    font-size: 36px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 24px;
+    color: #888;
+    margin-bottom: 20px;
+  }
