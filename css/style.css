@@ -100,8 +100,17 @@ header #boton1:hover {
 }
 
 .texto {
-  text-align: center;
-  color: white;
+  font-size: 24px;
+    color: #888;
+    margin-bottom: 20px;
 }
 
+.pregunta {
+  color: white;
+}
+.contenedor3 {
+  font-size: 24px;
+    color: #888;
+    margin-bottom: 20px;
+}
 /*# sourceMappingURL=style.css.map */
